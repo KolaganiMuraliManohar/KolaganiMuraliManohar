@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "celtic-origin-449104-d8",
+  "private_key_id": "b659e79168b14a00914029034d9e0d3afa4f2634",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCaKRQ0NSCUfRGc\nuRHbwP4h0Kk5mzKACI+O+VC11jmIxmr078dZ3cQsQvYoUS9Rnvk2iDolpfKSNWAx\nG1GxDcOc3O16ai0VIX6Wacstx1dki/aHx7mkcjXbnDqhqZ/zvMi3L8YeiVVspza/\nbi0B2gfgVKFybZdaYXcfkx7kSHu6PuBvRaFFnilRCryQUbRSaw9Td8Eyp5pCGgt5\n+00QtedAsFrz4XVQTAcQC1HdwJ0+cxXSG3iXK0RrP/CYrSlDCdnZWIj5H0O5IW5S\nh45kBluQ+IaKl31HV3GlDR1PmwclMvnBsja2NLGqDXKyzNLsLcfAdnVB9TOyO4by\nvJNEVcfDAgMBAAECggEAHdSMGcwb+U+4PDzdlUnjgxSW4lRDMd42NULOGNmSuYI3\niRzq1NtiTfRJIKURBHjAHYq/wbA6X4tfiTERnjKdIvnnJBRuk9Ou5JklHT8hDI4+\nzqhZplYJUO0KtWSW1Hm31yax7g/CDWvP3rwJjn2rn3+Q3A0TyAPrIpt7002pT3D1\nUfOjG0jRsLS05kAkMxU57YovYQ0lBvxySUq+t8Vwc7ugrocKDxILe2MBEZ5YYI8H\nQXOOzltzgXbCudkpVe9SSylXNk7C7TTv3g8SeMRyDVaw8sorrYBW2P9HYBrTwP8S\nZHd8LL3ccVW/fD6cAoSfFxaz8QdX23/p4V+dzP3yjQKBgQDQSDrzuIiBBr0T7lPv\nxK21oGP5WQ2VaJkx3BA42TcG0vx7KK4oWcH2XJjyLa5m96345lHWYhCFhaMsH183\nuSkVlGlZnIyxscsHf/Pws/Xdja77wLJEyycfoejp0YEelL90lT54vXk7Rb2rODiJ\nQJAh6bHE2dY5Fd6ZWX+ETNZVPQKBgQC9epsvQOFvNhkuR+qkR8iS9t9lt37TW9xU\n34j9ngL0eHsXF7RIcvWHcQ1o83oVby+fa2mzSYnbaaEVaTUrpQQekMipL7ztiVVu\nYfSIV+ZdqFm8f86fQMna0nVLYELKLSz4Ix4/bO/2/6AtV42XNznFYG/c+YV66/wV\nff8SNGBg/wKBgCD2jX3tAo2JB3uUCGy179gC3k+kLGYs+7HMZjTZC8Bku9iyA34X\nVn8rAHmziRp6sGnn6aPIOV0oXT6qaGNlRn9H0bSA9jNZNAynz2+Uy6CYv8zQHmaM\n0FBNS5NVuN2iJPrKc+yf8APVccMbTrdKJIV5eszwvNqj/2q9o1TI5FLxAoGAEpWf\n+vaGJf5MYfmzzgEsbx2/s55X1itAZSK3sQh6ibf3esBccm60HmC8S/r1knyhUyWZ\n7HfeCaNGpW74RBufV9AjnlSMV1ANDRKWhXj5o14Lzy1J+tzD766MyqPaaTIdIwlu\nwhHRR4yzDT91J8vG4tEep7HhobjbtM/y4Lo6ackCgYEAqRnQEsK0BzVBfRV8l3sn\nJvEQW8QViC/hsk3myv9pfU9c+dlY5EOjmcBOGSz+2tYyG7fHXeXepdbNLJs+Zokq\n2iusiIXHBjagO5DXAW+0TN/r+8cToRkpYJlDyMj3+KTokdq9hP5y4wPUf6RM1zwd\n0O1jvREeY1zdzhjwIw9wikc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "railway-safety-monitoring-serv@celtic-origin-449104-d8.iam.gserviceaccount.com",
+  "client_id": "112994365538494792318",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/railway-safety-monitoring-serv%40celtic-origin-449104-d8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
